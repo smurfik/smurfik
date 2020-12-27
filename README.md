@@ -1,4 +1,4 @@
-### full stack developer at [megaphone][megaphone] who likes emoji
+### software engineer at [spotify][spotify] who likes emoji
 
 👩‍💻 &nbsp;  working on React \
 📚 &nbsp;  tutoring new software developers \
@@ -14,7 +14,7 @@
 📸 &nbsp;[instagram][instagram] **~**
 👩‍💼 &nbsp;[linkedin][linkedin]
 
-[megaphone]: https://www.megaphone.fm/
+[spotify]: https://www.spotify.com/us/
 [ruby]: https://www.ruby-lang.org/en/
 [ruby_on_rails]: https://rubyonrails.org/
 [react]: https://reactjs.org/
