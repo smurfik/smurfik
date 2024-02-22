@@ -16,7 +16,7 @@
 
 [dancing]: https://www.youtube.com/watch?v=h8WkqINNwnk&feature=youtu.be&t=31
 [email]: tamara.v.pop@gmail.com
-[instagram]: https://www.instagram.com/tammy.pop/
+[instagram]: https://www.instagram.com/paws_now/
 [linkedin]: https://www.linkedin.com/in/tammy-pop/
 [react]: https://reactjs.org/
 [react]: https://reactjs.org/
